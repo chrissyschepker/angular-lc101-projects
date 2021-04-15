@@ -1,0 +1,16 @@
+.chores{
+    font-size: xx-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+}
+
+ h3 {
+    font-size: xx-large;
+    text-decoration: underline;
+    text-underline-position: below;
+    
+}
+
+li {
+    font-style: italic;
+}

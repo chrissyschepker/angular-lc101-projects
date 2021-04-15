@@ -1,8 +1,13 @@
 h3 {
    color: brown;
-}
+   font-size: xx-large;
+   text-decoration: underline;
+   text-underline-position: below;
+  }
 
-img {
+.photos img{
+   height: 500px;
+   width: 300px;
 
 }
 

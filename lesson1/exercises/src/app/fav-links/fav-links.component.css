@@ -1,14 +1,13 @@
-.movies {
-    color: hotpink;
+.links {
+    
     text-align: center;
-    font-size:x-large;
 }
 
-.movies h3 {
-    text-align: center;
+
+
+p {
     font-size: xx-large;
     text-decoration: underline;
     text-underline-position: below;
-       
-     
+    
 }
